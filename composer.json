@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Age_Gate_Pop_Up",
-    "type": "magento-module",
-    "license": "Massachusetts-Institute-of-Technology-License-(MITL)",
-    "homepage": "",
-    "description": "Age Gate allows you to lock your store until users confirms their Age. 
-",
-    "authors": [
-    {
-        "name": "Vsourz Digital",
-        "email": "mehul@vsourz.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
